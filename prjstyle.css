@@ -19,11 +19,6 @@ header {
   width: 50%;
   padding: 5px;
 }
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 nav {
     background-color: #444;
     padding: 0.5em;
