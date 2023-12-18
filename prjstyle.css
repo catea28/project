@@ -10,7 +10,7 @@ body {
 }
 #intro{
     color: #fff;
-    position: absolute; right: 100px;
+    position: absolute; right: -100px;
 }
 header {
     background-color: #333;
