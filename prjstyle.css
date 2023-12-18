@@ -33,20 +33,6 @@ nav a:hover {
     background-color: #666;
 }
 
-section {
-    padding: 1em;
-}
-
-.apptext2{
-    color:#679D56;
-    font-size:25px;
-    font-weight:bold;
-}
-.apptext1{
-    color:#fff;
-    font-size:25px;
-    font-weight:bold;
-}
 
 p {
     max-width: 800px;
@@ -54,10 +40,6 @@ p {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-a {
-    color: #679D58;
 }
 
 a:hover {
@@ -71,8 +53,9 @@ section {
     margin: 20px;
 }
 
-h2,h3 {
+h2,h3, .label,a {
     color: #679D58;
+    font-weight:bold;
 }
 
 ul {
