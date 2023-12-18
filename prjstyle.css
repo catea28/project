@@ -48,4 +48,26 @@ footer {
 .apptext2{
     color:#679D56;
     font-size:25px;
+    font-weight:bold;
+}
+.apptext1{
+    color:#fff;
+    font-size:25px;
+    font-weight:bold;
+}
+
+p {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    color: #336699;
+}
+
+a:hover {
+    text-decoration: underline;
 }
