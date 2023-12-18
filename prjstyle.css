@@ -53,9 +53,12 @@ section {
     margin: 20px;
 }
 
-h2,h3, .label,a {
+h2,h3{
     color: #679D58;
     font-weight:bold;
+}
+.label{
+    color: #679D58;
 }
 
 ul {
